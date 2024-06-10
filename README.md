@@ -1,2 +1,1 @@
-# Ecommerce de Anime
-Primer Ecommerce 
+# Pagina de Anime
